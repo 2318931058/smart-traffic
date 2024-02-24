@@ -1,0 +1,311 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.40417883838779,
+                    30.48156050158492
+                ]
+            },
+            "properties": {
+                "ID": "2",
+                "编号": "XXT01",
+                "位置": "南湖大道与关山大道交叉路口",
+                "URL": "../../data/video/莲花新洲路口南段（190.192.11.134）.mp4",
+                "mpLayer": "0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.4151978383878,
+                    30.48049650158492
+                ]
+            },
+            "properties": {
+                "ID": "3",
+                "编号": "XXT02",
+                "位置": "南湖大道与光谷大道交叉路口",
+                "URL": "../../data/video/莲花新洲路口南段（190.192.11.134）.mp4",
+                "mpLayer": "0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.38991306826696,
+                    30.481863490217467
+                ]
+            },
+            "properties": {
+                "ID": "4",
+                "编号": "XXT03",
+                "位置": "南湖大道与民族大道交叉路口",
+                "URL": "../../data/video/莲花新洲路口南段（190.192.11.134）.mp4",
+                "mpLayer": "0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.40751490317646,
+                    30.509873523649606
+                ]
+            },
+            "properties": {
+                "ID": "5",
+                "编号": "XXT04",
+                "位置": "关山大道与珞雄路交叉路口",
+                "URL": "../../data/video/莲花新洲路口南段（190.192.11.134）.mp4",
+                "mpLayer": "0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.40659002263195,
+                    30.49942641890346
+                ]
+            },
+            "properties": {
+                "ID": "6",
+                "编号": "XXT05",
+                "位置": "关山大道与雄楚大道交叉路口",
+                "URL": "../../data/video/莲花新洲路口南段（190.192.11.134）.mp4",
+                "mpLayer": "0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.39261678200603,
+                    30.500539501584917
+                ]
+            },
+            "properties": {
+                "ID": "7",
+                "编号": "XXT06",
+                "位置": "民族大道与雄楚大道交叉路口",
+                "URL": "../../data/video/莲花新洲路口南段（190.192.11.134）.mp4",
+                "mpLayer": "0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.37471778200603,
+                    30.507769501584917
+                ]
+            },
+            "properties": {
+                "ID": "8",
+                "编号": "XXT07",
+                "位置": "虎泉街与雄楚大道交叉路口",
+                "URL": "../../data/video/莲花新洲路口南段（190.192.11.134）.mp4",
+                "mpLayer": "0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.3334818383878,
+                    30.48221350158492
+                ]
+            },
+            "properties": {
+                "ID": "10",
+                "编号": "XXT08",
+                "位置": "珞狮路与南湖大道交叉路口",
+                "URL": "../../data/video/莲花新洲路口南段（190.192.11.134）.mp4",
+                "mpLayer": "0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.34381878200603,
+                    30.51274750158492
+                ]
+            },
+            "properties": {
+                "ID": "11",
+                "编号": "XXT09",
+                "位置": "珞狮路与雄楚大道交叉路口",
+                "URL": "../../data/video/莲花新洲路口正中（190.192.11.133）.mp4",
+                "mpLayer": "0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.32110382470053,
+                    30.46061694250228
+                ]
+            },
+            "properties": {
+                "ID": "12",
+                "编号": "XXT10",
+                "位置": "珞狮路与南三环交叉路口",
+                "URL": "../../data/video/莲花新洲路口正中（190.192.11.133）.mp4",
+                "mpLayer": "0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.38501082470053,
+                    30.46367894250228
+                ]
+            },
+            "properties": {
+                "ID": "13",
+                "编号": "XXT11",
+                "位置": "民族大道与南三环交叉路口",
+                "URL": "../../data/video/莲花新洲路口正中（190.192.11.133）.mp4",
+                "mpLayer": "0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.40216582470053,
+                    30.46536294250228
+                ]
+            },
+            "properties": {
+                "ID": "14",
+                "编号": "XXT12",
+                "位置": "关山大道与南三环交叉路口",
+                "URL": "../../data/video/莲花新洲路口正中（190.192.11.133）.mp4",
+                "mpLayer": "0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.41459682470052,
+                    30.46716694250228
+                ]
+            },
+            "properties": {
+                "ID": "15",
+                "编号": "XXT13",
+                "位置": "光谷大道与南三环交叉路口",
+                "URL": "../../data/video/莲花新洲路口正中（190.192.11.133）.mp4",
+                "mpLayer": "0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.41798540197931,
+                    30.50884350158492
+                ]
+            },
+            "properties": {
+                "ID": "16",
+                "编号": "XXT14",
+                "位置": "光谷大道与珞雄路交叉路口",
+                "URL": "../../data/video/莲花新洲路口正中（190.192.11.133）.mp4",
+                "mpLayer": "0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.41661278200603,
+                    30.497857501584917
+                ]
+            },
+            "properties": {
+                "ID": "17",
+                "编号": "XXT15",
+                "位置": "光谷大道与雄楚大道交叉路口",
+                "URL": "../../data/video/莲花新洲路口正中（190.192.11.133）.mp4",
+                "mpLayer": "0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.36377782470052,
+                    30.521317810791203
+                ]
+            },
+            "properties": {
+                "ID": "18",
+                "编号": "XXT16",
+                "位置": "珞喻路与虎泉街交叉路口",
+                "URL": "../../data/video/莲花新洲路口正中（190.192.11.133）.mp4",
+                "mpLayer": "0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.34783082470052,
+                    30.52896194250228
+                ]
+            },
+            "properties": {
+                "ID": "19",
+                "编号": "XXT17",
+                "位置": "珞瑜路与珞狮路交叉路口",
+                "URL": "../../data/video/莲花新洲路口正中（190.192.11.133）.mp4",
+                "mpLayer": "0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.39364284543404,
+                    30.508415052839677
+                ]
+            },
+            "properties": {
+                "ID": "20",
+                "编号": "XXT18",
+                "位置": "光谷广场",
+                "URL": "../../data/video/莲花新洲路口正中（190.192.11.133）.mp4",
+                "mpLayer": "0"
+            }
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+*{
+  padding: 0;
+  margin: 0 ;
+  box-sizing: border-box;
+}
+html,
+body{
+  overflow: hidden;
+}
+
+body .mapboxgl-popup-close-button {
+    right: 18px;
+    top: 11px;
+}
+body .el-message{
+
+  width: 150px;
+
+
+}
+.el-message_content{
+
+  padding: 5px;
+}
+body .mapboxgl-popup-content {
+  border-radius: 10px;
+}
+.pop-detail + .mapboxgl-popup-close-button{
+  width: 30px;
+}
+body .content .mapbox-gl-draw_ctrl-draw-btn{
+  display: none;
+}
+.mapboxgl-ctrl-top-left .mapboxgl-ctrl {
+  display: flex;
+  flex-direction: column;
+}

@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+      <meta charset="UTF-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <title>Document</title>
+      <script src="https://lib.baomitu.com/vue/2.7.7/vue.js">
+      </script>
+      <script src="https://lib.baomitu.com/axios/latest/axios.js"></script>
+</head>
+
+<body>
+      <div id="app">
+            <div>
+                  <input v-model="username">
+                  <input v-model="password">
+                  <input v-model="id">
+            </div>
+            <div>
+                  <button @click="login">登录</button>
+                  <button @click="patchUser">修改普通用户数据</button>
+            </div>
+      </div>
+      <script>
+            axios.defaults.baseURL = 'http://localhost:3000';
+            axios.interceptors.request.use(config => {
+                  const token = localStorage.getItem('token');
+                  if (token) {
+                        config.headers.common['Authorization'] = `Bearer ${token}`;
+                  }
+                  return config;
+            })
+            const app = new Vue({
+                  el: '#app',
+                  data: {
+                        username: "com-chen",
+                        password:123666,
+                        id:"12317100",
+                  },
+                  methods: {
+                        async login() {
+                              console.log("login")
+                              const res = await axios.post('/api/login', {
+                                    username: this.username,
+                                    password: this.password,
+                                    type: "common"
+                              });
+                              localStorage.setItem('token', res.data.token);
+                        },
+                        
+                        async patchUser() {
+                              console.log("patch")
+                              const res = await axios.post('/api/patch', {
+                                    id:this.id,
+                                    username: this.username,
+                                    password: this.password,
+                                    type: "common"
+                              });
+                              console.log(res)
+                        }
+                  }
+            });
+      </script>
+</body>
+
+</html>

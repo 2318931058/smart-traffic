@@ -1,0 +1,220 @@
+[
+    {
+        "notice_id": 1,
+        "info": "因某某道路施工，请大家绕道出行",
+        "time": "2018/05/24 16:32:08",
+        "type": "all",
+        "user": [
+            {
+                "id": 83350172,
+                "username": "张三",
+                "status": "未读"
+            },
+            {
+                "id": 30236162,
+                "username": "Vue",
+                "status": "未读"
+            },
+            {
+                "id": 12317100,
+                "username": "com-chen",
+                "status": "未读"
+            },
+            {
+                "id": 34204700,
+                "username": "赵六",
+                "status": "未读"
+            }
+        ]
+    },
+    {
+        "notice_id": 2,
+        "info": "因某某道路下雪，请大家绕道出行",
+        "time": "2018/12/27 10:32:08",
+        "type": "some",
+        "user": []
+    },
+    {
+        "notice_id": 3,
+        "info": "因某某道路故障，请大家绕道出行",
+        "time": "2019/05/24 16:32:08",
+        "type": "all",
+        "user": [
+            {
+                "id": 83350172,
+                "username": "张三",
+                "status": "未读"
+            },
+            {
+                "id": 30236162,
+                "username": "Vue",
+                "status": "未读"
+            },
+            {
+                "id": 12317100,
+                "username": "com-chen",
+                "status": "未读"
+            },
+            {
+                "id": 34204700,
+                "username": "赵六",
+                "status": "未读"
+            }
+        ]
+    },
+    {
+        "notice_id": 4,
+        "info": "因某某道路拥堵，请大家绕道出行",
+        "time": "2019/06/24 16:32:08",
+        "type": "some",
+        "user": []
+    },
+    {
+        "notice_id": 5,
+        "info": "因某某道路施工，请大家绕道出行",
+        "time": "2019/06/28 13:24:17",
+        "status": "已读",
+        "type": "all",
+        "user": [
+            {
+                "id": 83350172,
+                "username": "张三",
+                "status": "未读"
+            },
+            {
+                "id": 30236162,
+                "username": "Vue",
+                "status": "未读"
+            },
+            {
+                "id": 12317100,
+                "username": "com-chen",
+                "status": "未读"
+            },
+            {
+                "id": 34204700,
+                "username": "赵六",
+                "status": "未读"
+            }
+        ]
+    },
+    {
+        "notice_id": 6,
+        "info": "因某某道路施工，请大家绕道出行",
+        "time": "2019/07/07 16:32:08",
+        "type": "some",
+        "user": []
+    },
+    {
+        "notice_id": 7,
+        "info": "因某某道路施工，请大家绕道出行",
+        "time": "2019/07/07 16:32:08",
+        "type": "some",
+        "user": []
+    },
+    {
+        "notice_id": 8,
+        "info": "因某某道路施工，请大家绕道出行",
+        "time": "2019/07/09 16:32:08",
+        "type": "some",
+        "user": []
+    },
+    {
+        "notice_id": 9,
+        "info": "因某某道路施工，请大家绕道出行",
+        "time": "2019/07/12 16:32:08",
+        "type": "some",
+        "user": []
+    },
+    {
+        "notice_id": 10,
+        "info": "因某某道路施工，请大家绕道出行",
+        "time": "2019/07/16 16:32:08",
+        "type": "some",
+        "user": []
+    },
+    {
+        "notice_id": 11,
+        "info": "因某某道路施工，请大家绕道出行",
+        "time": "2019/07/18 16:32:08",
+        "type": "some",
+        "user": []
+    },
+    {
+        "notice_id": 12,
+        "info": "因某道路施工，请绕道出行，感谢您的谅解！",
+        "time": "2019/8/18 16:43:13",
+        "type": "some",
+        "user": []
+    },
+    {
+        "notice_id": 13,
+        "info": "因某道路施工，请绕道出行，感谢您的谅解！",
+        "time": "2019/8/20 17:17:13",
+        "type": "all",
+        "user": [
+            {
+                "id": 83350172,
+                "username": "张三",
+                "status": "未读"
+            },
+            {
+                "id": 30236162,
+                "username": "Vue",
+                "status": "未读"
+            },
+            {
+                "id": 12317100,
+                "username": "com-chen",
+                "status": "未读"
+            },
+            {
+                "id": 34204700,
+                "username": "赵六",
+                "status": "未读"
+            }
+        ]
+    },
+    {
+        "notice_id": 14,
+        "info": "因某道路施工，请绕道出行，感谢您的谅解！",
+        "time": "2019/8/25 17:17:13",
+        "type": "all",
+        "user": [
+            {
+                "id": 83350172,
+                "username": "张三",
+                "status": "未读"
+            },
+            {
+                "id": 30236162,
+                "username": "Vue",
+                "status": "已读"
+            },
+            {
+                "id": 12317100,
+                "username": "com-chen",
+                "status": "未读"
+            },
+            {
+                "id": 34204700,
+                "username": "赵六",
+                "status": "未读"
+            }
+        ]
+    },
+    {
+        "notice_id": 15,
+        "info": "因某道路施工，请绕道出行，感谢您的谅解！",
+        "time": "2019/9/25 17:17:13",
+        "type": "some",
+        "user": []
+    },
+    {
+        "notice_id": 16,
+        "info": "因某道路施工，请绕道出行，感谢您的谅解！",
+        "time": "2019/9/26 17:17:13",
+        "type": "some",
+        "user": []
+    }
+]

@@ -1,0 +1,812 @@
+[
+    {
+        "fid": 1,
+        "event_id": "SJ20181209001",
+        "event_type": "碰撞",
+        "event_level": "1",
+        "event_time": "2018/1/11 9:45",
+        "event_place": "光谷广场",
+        "driver_car": "鄂A00000",
+        "driver_name": "彭万里",
+        "event_status": "2",
+        "event_axis": [
+            114.39262180493563,
+            30.508438310791202
+        ]
+    },
+    {
+        "fid": 2,
+        "event_id": "SJ20181209002",
+        "event_type": "刮擦",
+        "event_level": "4",
+        "event_time": "2018/1/11 9:45",
+        "event_place": "光谷广场",
+        "driver_car": "鄂A00001",
+        "driver_name": "高大山",
+        "event_status": "0",
+        "event_axis": [
+            114.39340506826696,
+            30.50755849021747
+        ]
+    },
+    {
+        "fid": 3,
+        "event_id": "SJ20181209003",
+        "event_type": "其他",
+        "event_level": "4",
+        "event_time": "2019/2/1 9:45",
+        "event_place": "光谷广场",
+        "driver_car": "鄂A00002",
+        "driver_name": "谢大海",
+        "event_status": "0",
+        "event_axis": [
+            114.39455280493563,
+            30.508341310791202
+        ]
+    },
+    {
+        "fid": 4,
+        "event_id": "SJ20181209004",
+        "event_type": "碰撞",
+        "event_level": "1",
+        "event_time": "2018/3/15 9:45",
+        "event_place": "光谷广场",
+        "driver_car": "鄂A00003",
+        "driver_name": "马宏宇",
+        "event_status": "1",
+        "event_axis": [
+            114.39401274224593,
+            30.50938874505458
+        ]
+    },
+    {
+        "fid": 5,
+        "event_id": "SJ20181209005",
+        "event_type": "碰撞",
+        "event_level": "2",
+        "event_time": "2018/11/11 9:45",
+        "event_place": "民族大道",
+        "driver_car": "鄂A00004",
+        "driver_name": "林莽",
+        "event_status": "0",
+        "event_axis": [
+            114.38990996116674,
+            30.4826848134896
+        ]
+    },
+    {
+        "fid": 6,
+        "event_id": "SJ20181209006",
+        "event_type": "失火",
+        "event_level": 1,
+        "event_time": "2018/11/11 9:45",
+        "event_place": "民族大道",
+        "driver_car": "鄂A00005",
+        "driver_name": "黄强辉",
+        "event_status": "0",
+        "event_axis": [
+            114.38967252176906,
+            30.48095931467543
+        ]
+    },
+    {
+        "fid": 7,
+        "event_id": "SJ20181209008",
+        "event_type": "刮擦",
+        "event_level": "4",
+        "event_time": "2018/11/11 11:45",
+        "event_place": "民族大道与雄楚大道交叉处",
+        "driver_car": "鄂A00007",
+        "driver_name": "范长江",
+        "event_status": "0",
+        "event_axis": [
+            114.39261706826696,
+            30.50053949021747
+        ]
+    },
+    {
+        "fid": 8,
+        "event_id": "SJ20181209010",
+        "event_type": "失火",
+        "event_level": "1",
+        "event_time": "2018/7/11 11:45",
+        "event_place": "关山大道与雄楚大道交叉处",
+        "driver_car": "鄂A00009",
+        "driver_name": "谭平山",
+        "event_status": "0",
+        "event_axis": [
+            114.40637476720042,
+            30.4994074908569
+        ]
+    },
+    {
+        "fid": 9,
+        "event_id": "SJ20181209011",
+        "event_type": "失火",
+        "event_level": "1",
+        "event_time": "2018/7/11 9:45",
+        "event_place": "关山大道",
+        "driver_car": "鄂A00010",
+        "driver_name": "关仁",
+        "event_status": "0",
+        "event_axis": [
+            114.40579790317646,
+            30.494939523649606
+        ]
+    },
+    {
+        "fid": 10,
+        "event_id": "SJ20181209012",
+        "event_type": "其他",
+        "event_level": "4",
+        "event_time": "2018/7/11 9:45",
+        "event_place": "关山大道",
+        "driver_car": "鄂A00011",
+        "driver_name": "孙应吉",
+        "event_status": "0",
+        "event_axis": [
+            114.40523729980912,
+            30.490267828921674
+        ]
+    },
+    {
+        "fid": 11,
+        "event_id": "SJ20181209013",
+        "event_type": "碰撞",
+        "event_level": "4",
+        "event_time": "2018/7/11 9:45",
+        "event_place": "关山大道",
+        "driver_car": "鄂A00012",
+        "driver_name": "钱生禄",
+        "event_status": "0",
+        "event_axis": [
+            114.40487434853763,
+            30.487243234992718
+        ]
+    },
+    {
+        "fid": 12,
+        "event_id": "SJ20181209014",
+        "event_type": "刮擦",
+        "event_level": "4",
+        "event_time": "2018/10/11 16:30",
+        "event_place": "民族大道",
+        "driver_car": "鄂A00013",
+        "driver_name": "王仁兴",
+        "event_status": "0",
+        "event_axis": [
+            114.39096161596056,
+            30.494161318987768
+        ]
+    },
+    {
+        "fid": 13,
+        "event_id": "SJ20181209015",
+        "event_type": "碰撞",
+        "event_level": "3",
+        "event_time": "2018/10/11 16:30",
+        "event_place": "民族大道",
+        "driver_car": "鄂A00014",
+        "driver_name": "李际泰",
+        "event_status": "0",
+        "event_axis": [
+            114.39030006826697,
+            30.49161249021747
+        ]
+    },
+    {
+        "fid": 14,
+        "event_id": "SJ20181209016",
+        "event_type": "刮擦",
+        "event_level": "4",
+        "event_time": "2018/10/11 16:30",
+        "event_place": "民族大道",
+        "driver_car": "鄂A00015",
+        "driver_name": "罗元发",
+        "event_status": "2",
+        "event_axis": [
+            114.39010656826696,
+            30.48673799021747
+        ]
+    },
+    {
+        "fid": 15,
+        "event_id": "SJ20181209017",
+        "event_type": "翻车",
+        "event_level": "2",
+        "event_time": "2018/10/11 16:30",
+        "event_place": "民族大道",
+        "driver_car": "鄂A00016",
+        "driver_name": "刘造时",
+        "event_status": "2",
+        "event_axis": [
+            114.39317449729099,
+            30.505428712446328
+        ]
+    },
+    {
+        "fid": 16,
+        "event_id": "SJ20181209018",
+        "event_type": "刮擦",
+        "event_level": "4",
+        "event_time": "2018/10/11 16:30",
+        "event_place": "民族大道",
+        "driver_car": "鄂A00017",
+        "driver_name": "刘长胜",
+        "event_status": "0",
+        "event_axis": [
+            114.39300356826696,
+            30.50392949021747
+        ]
+    },
+    {
+        "fid": 17,
+        "event_id": "SJ20181209019",
+        "event_type": "碰撞",
+        "event_level": "2",
+        "event_time": "2018/10/12 12:00",
+        "event_place": "民族大道",
+        "driver_car": "鄂A00018",
+        "driver_name": "张成基",
+        "event_status": "0",
+        "event_axis": [
+            114.39281111294255,
+            30.50224146033468
+        ]
+    },
+    {
+        "fid": 18,
+        "event_id": "SJ20181209020",
+        "event_type": "翻车",
+        "event_level": "2",
+        "event_time": "2018/11/12 12:00",
+        "event_place": "关山大道",
+        "driver_car": "鄂A00019",
+        "driver_name": "张成基",
+        "event_status": "0",
+        "event_axis": [
+            114.40648490317646,
+            30.500260523649604
+        ]
+    },
+    {
+        "fid": 19,
+        "event_id": "SJ20181209021",
+        "event_type": "碰撞",
+        "event_level": "1",
+        "event_time": "2018/11/12 12:00",
+        "event_place": "关山大道",
+        "driver_car": "鄂A00020",
+        "driver_name": "张志远",
+        "event_status": "0",
+        "event_axis": [
+            114.40664255698861,
+            30.501731908208914
+        ]
+    },
+    {
+        "fid": 20,
+        "event_id": "SJ20181209022",
+        "event_type": "刮擦",
+        "event_level": "4",
+        "event_time": "2018/11/12 12:00",
+        "event_place": "关山大道",
+        "driver_car": "鄂A00021",
+        "driver_name": "张广才",
+        "event_status": "0",
+        "event_axis": [
+            114.40674914123484,
+            30.502726660013842
+        ]
+    },
+    {
+        "fid": 21,
+        "event_id": "SJ20181209023",
+        "event_type": "翻车",
+        "event_level": "2",
+        "event_time": "2018/11/12 12:00",
+        "event_place": "民族大道",
+        "driver_car": "鄂A00022",
+        "driver_name": "吕德榜",
+        "event_status": "0",
+        "event_axis": [
+            114.38762206826696,
+            30.47325199021747
+        ]
+    },
+    {
+        "fid": 22,
+        "event_id": "SJ20181209024",
+        "event_type": "碰撞",
+        "event_level": "3",
+        "event_time": "2018/11/13 9:30",
+        "event_place": "民族大道与南山环交叉处",
+        "driver_car": "鄂A00023",
+        "driver_name": "吕文达",
+        "event_status": "0",
+        "event_axis": [
+            114.3849445744873,
+            30.463480896296563
+        ]
+    },
+    {
+        "fid": 23,
+        "event_id": "SJ20181209025",
+        "event_type": "刮擦",
+        "event_level": "4",
+        "event_time": "2018/11/13 9:30",
+        "event_place": "珞狮路",
+        "driver_car": "鄂A00024",
+        "driver_name": "吴家栋",
+        "event_status": "0",
+        "event_axis": [
+            114.34178882470053,
+            30.50816294250228
+        ]
+    },
+    {
+        "fid": 24,
+        "event_id": "SJ20181209026",
+        "event_type": "刮擦",
+        "event_level": "4",
+        "event_time": "2018/11/13 9:30",
+        "event_place": "珞狮路",
+        "driver_car": "鄂A00025",
+        "driver_name": "吴国梁",
+        "event_status": "0",
+        "event_axis": [
+            114.33826532470053,
+            30.50170544250228
+        ]
+    },
+    {
+        "fid": 25,
+        "event_id": "SJ20181209027",
+        "event_type": "碰撞",
+        "event_level": "2",
+        "event_time": "2018/11/13 9:30",
+        "event_place": "珞狮路",
+        "driver_car": "鄂A00026",
+        "driver_name": "李大江",
+        "event_status": "0",
+        "event_axis": [
+            114.33354082470053,
+            30.491256942502282
+        ]
+    },
+    {
+        "fid": 26,
+        "event_id": "SJ20181209028",
+        "event_type": "刮擦",
+        "event_level": "4",
+        "event_time": "2018/11/13 9:30",
+        "event_place": "珞狮路",
+        "driver_car": "鄂A00027",
+        "driver_name": "张石山",
+        "event_status": "0",
+        "event_axis": [
+            114.33148932470053,
+            30.47280444250228
+        ]
+    },
+    {
+        "fid": 27,
+        "event_id": "SJ20181209029",
+        "event_type": "碰撞",
+        "event_level": "3",
+        "event_time": "2018/11/14 15:00",
+        "event_place": "珞狮路",
+        "driver_car": "鄂A00028",
+        "driver_name": "王海",
+        "event_status": "0",
+        "event_axis": [
+            114.32599632470053,
+            30.46507994250228
+        ]
+    },
+    {
+        "fid": 28,
+        "event_id": "SJ20181209030",
+        "event_type": "碰撞",
+        "event_level": "3",
+        "event_time": "2018/11/14 15:00",
+        "event_place": "珞狮路",
+        "driver_car": "鄂A00029",
+        "driver_name": "孙宏坤",
+        "event_status": "0",
+        "event_axis": [
+            114.33869517236539,
+            30.460905509992195
+        ]
+    },
+    {
+        "fid": 29,
+        "event_id": "SJ20181209030",
+        "event_type": "刮擦",
+        "event_level": "4",
+        "event_time": "2018/11/14 15:00",
+        "event_place": "南山环",
+        "driver_car": "鄂A00030",
+        "driver_name": "杨惟义",
+        "event_status": "0",
+        "event_axis": [
+            114.35674991520013,
+            30.461796421080653
+        ]
+    },
+    {
+        "fid": 30,
+        "event_id": "SJ20181209032",
+        "event_type": "碰撞",
+        "event_level": "2",
+        "event_time": "2018/11/14 15:00",
+        "event_place": "南山环",
+        "driver_car": "鄂A00030",
+        "driver_name": "李文信",
+        "event_status": "0",
+        "event_axis": [
+            114.36800782470053,
+            30.46235194250228
+        ]
+    },
+    {
+        "fid": 31,
+        "event_id": "SJ20181209033",
+        "event_type": "刮擦",
+        "event_level": "4",
+        "event_time": "2018/11/14 15:00",
+        "event_place": "南湖大道",
+        "driver_car": "鄂A00032",
+        "driver_name": "王德茂",
+        "event_status": "1",
+        "event_axis": [
+            114.37564283838779,
+            30.48207650158492
+        ]
+    },
+    {
+        "fid": 32,
+        "event_id": "SJ20181209034",
+        "event_type": "刮擦",
+        "event_level": "4",
+        "event_time": "2018/11/14 17:20",
+        "event_place": "南湖大道",
+        "driver_car": "鄂A00033",
+        "driver_name": "李书诚",
+        "event_status": "0",
+        "event_axis": [
+            114.35581298553636,
+            30.482510291338574
+        ]
+    },
+    {
+        "fid": 33,
+        "event_id": "SJ20181209035",
+        "event_type": "碾压",
+        "event_level": "2",
+        "event_time": "2018/11/14 17:20",
+        "event_place": "雄楚大道",
+        "driver_car": "鄂A00034",
+        "driver_name": "杨勇",
+        "event_status": "0",
+        "event_axis": [
+            114.36098478200603,
+            30.509915501584917
+        ]
+    },
+    {
+        "fid": 34,
+        "event_id": "SJ20181209036",
+        "event_type": "碾压",
+        "event_level": "2",
+        "event_time": "2018/11/14 17:20",
+        "event_place": "雄楚大道",
+        "driver_car": "鄂A00035",
+        "driver_name": "高尚德",
+        "event_status": "0",
+        "event_axis": [
+            114.36716478200603,
+            30.507426501584916
+        ]
+    },
+    {
+        "fid": 35,
+        "event_id": "SJ20181209037",
+        "event_type": "碰撞",
+        "event_level": "2",
+        "event_time": "2018/11/14 17:20",
+        "event_place": "雄楚大道",
+        "driver_car": "鄂A00036",
+        "driver_name": "刁富贵",
+        "event_status": "0",
+        "event_axis": [
+            114.35480478200603,
+            30.512404501584918
+        ]
+    },
+    {
+        "fid": 36,
+        "event_id": "SJ20181209038",
+        "event_type": "失火",
+        "event_level": "1",
+        "event_time": "2018/11/14 17:20",
+        "event_place": "虎泉街",
+        "driver_car": "鄂A00037",
+        "driver_name": "何光宗",
+        "event_status": "0",
+        "event_axis": [
+            114.36468941770224,
+            30.515214404944928
+        ]
+    },
+    {
+        "fid": 37,
+        "event_id": "SJ20181209039",
+        "event_type": "刮擦",
+        "event_level": "4",
+        "event_time": "2018/11/14 17:20",
+        "event_place": "虎泉街",
+        "driver_car": "鄂A00038",
+        "driver_name": "冷德友",
+        "event_status": "0",
+        "event_axis": [
+            114.37071341770223,
+            30.510340904944925
+        ]
+    },
+    {
+        "fid": 38,
+        "event_id": "SJ20181209040",
+        "event_type": "碰撞",
+        "event_level": "1",
+        "event_time": "2018/11/15 10:10",
+        "event_place": "雄楚大道",
+        "driver_car": "鄂A00039",
+        "driver_name": "安怡孙",
+        "event_status": "0",
+        "event_axis": [
+            114.38188031472193,
+            30.503185691154677
+        ]
+    },
+    {
+        "fid": 39,
+        "event_id": "SJ20181209041",
+        "event_type": "碾压",
+        "event_level": "2",
+        "event_time": "2018/11/15 10:10",
+        "event_place": "雄楚大道",
+        "driver_car": "鄂A00040",
+        "driver_name": "贾德善",
+        "event_status": "1",
+        "event_axis": [
+            114.38560578200602,
+            30.500801501584917
+        ]
+    },
+    {
+        "fid": 40,
+        "event_id": "SJ20181209042",
+        "event_type": "碰撞",
+        "event_level": "2",
+        "event_time": "2018/12/15 10:10",
+        "event_place": "珞瑜路",
+        "driver_car": "鄂A00041",
+        "driver_name": "蔡德霖",
+        "event_status": "0",
+        "event_axis": [
+            114.37250032470052,
+            30.519547810791202
+        ]
+    },
+    {
+        "fid": 41,
+        "event_id": "SJ20181209043",
+        "event_type": "翻车",
+        "event_level": "2",
+        "event_time": "2018/12/15 10:10",
+        "event_place": "珞瑜路",
+        "driver_car": "鄂A00042",
+        "driver_name": "关仁",
+        "event_status": "0",
+        "event_axis": [
+            114.38341230591087,
+            30.51579372630122
+        ]
+    },
+    {
+        "fid": 42,
+        "event_id": "SJ20181209044",
+        "event_type": "碰撞",
+        "event_level": "3",
+        "event_time": "2018/12/15 10:10",
+        "event_place": "珞雄路",
+        "driver_car": "鄂A00043",
+        "driver_name": "郑义贾",
+        "event_status": "2",
+        "event_axis": [
+            114.40014380493562,
+            30.509386310791204
+        ]
+    },
+    {
+        "fid": 43,
+        "event_id": "SJ20181209045",
+        "event_type": "碾压",
+        "event_level": "2",
+        "event_time": "2018/12/15 13:40",
+        "event_place": "珞雄路",
+        "driver_car": "鄂A00044",
+        "driver_name": "赵德荣",
+        "event_status": "1",
+        "event_axis": [
+            114.41275030493563,
+            30.509358310791203
+        ]
+    },
+    {
+        "fid": 44,
+        "event_id": "SJ20181209046",
+        "event_type": "失火",
+        "event_level": "1",
+        "event_time": "2018/12/15 13:40",
+        "event_place": "光谷大道",
+        "driver_car": "鄂A00045",
+        "driver_name": "孙丹",
+        "event_status": "0",
+        "event_axis": [
+            114.41729890197931,
+            30.50335050158492
+        ]
+    },
+    {
+        "fid": 45,
+        "event_id": "SJ20181209047",
+        "event_type": "翻车",
+        "event_level": "2",
+        "event_time": "2018/12/15 13:40",
+        "event_place": "光谷大道",
+        "driver_car": "鄂A00046",
+        "driver_name": "孙书星",
+        "event_status": "0",
+        "event_axis": [
+            114.41618340197931,
+            30.493651501584917
+        ]
+    },
+    {
+        "fid": 46,
+        "event_id": "SJ20181209048",
+        "event_type": "碰撞",
+        "event_level": "2",
+        "event_time": "2018/12/15 13:40",
+        "event_place": "光谷大道",
+        "driver_car": "鄂A00047",
+        "driver_name": "孙恒",
+        "event_status": "2",
+        "event_axis": [
+            114.41558240197931,
+            30.485840501584917
+        ]
+    },
+    {
+        "fid": 47,
+        "event_id": "SJ20181209049",
+        "event_type": "碰撞",
+        "event_level": "3",
+        "event_time": "2018/12/15 13:40",
+        "event_place": "光谷大道",
+        "driver_car": "鄂A00048",
+        "driver_name": "孙桢",
+        "event_status": "0",
+        "event_axis": [
+            114.41487490197932,
+            30.474242501584918
+        ]
+    },
+    {
+        "fid": 48,
+        "event_id": "SJ20181209050",
+        "event_type": "碰撞",
+        "event_level": "1",
+        "event_time": "2018/12/15 21:30",
+        "event_place": "光谷大道与南三环交叉处",
+        "driver_car": "鄂A00049",
+        "driver_name": "孙雯",
+        "event_status": "0",
+        "event_axis": [
+            114.41458370569784,
+            30.467410840773333
+        ]
+    },
+    {
+        "fid": 49,
+        "event_id": "SJ201812090051",
+        "event_type": "翻车",
+        "event_level": "2",
+        "event_time": "2018/12/15 21:30",
+        "event_place": "光谷大道",
+        "driver_car": "鄂A00050",
+        "driver_name": "何丽",
+        "event_status": "0",
+        "event_axis": [
+            114.41528240197931,
+            30.454517501584917
+        ]
+    },
+    {
+        "fid": 50,
+        "event_id": "sj20191028172143",
+        "event_type": "碰撞",
+        "event_level": "1",
+        "event_time": "2019/10/25 17:10",
+        "event_place": "武汉市武昌区雄楚大道,天富便利店附近",
+        "driver_car": "鄂A00050",
+        "driver_name": "张天祥",
+        "event_status": "0",
+        "event_axis": [
+            114.34932849641801,
+            30.51274684338006
+        ]
+    },
+    {
+        "fid": 51,
+        "event_id": "sj20191028172808",
+        "event_type": "碾压",
+        "event_level": "1",
+        "event_time": "2019/10/25 20:17:00",
+        "event_place": "武汉市洪山区雄楚大道,湖北省邮电学校附近",
+        "driver_car": "鄂A00002",
+        "driver_name": "李成敝",
+        "event_status": "0",
+        "event_axis": [
+            114.37670068346051,
+            30.506141781613476
+        ]
+    },
+    {
+        "fid": 52,
+        "event_id": "sj20191028173318",
+        "event_type": "翻车",
+        "event_level": "1",
+        "event_time": "2019/10/28 17:32:13",
+        "event_place": "武汉市洪山区南湖大道,鸿运商务公寓附近",
+        "driver_car": "鄂A00003",
+        "driver_name": "张如春",
+        "event_status": "0",
+        "event_axis": [
+            114.33733560857945,
+            30.482581257730832
+        ]
+    },
+    {
+        "fid": 53,
+        "event_id": "sj20200727155439",
+        "event_type": "碰撞",
+        "event_level": "1",
+        "event_time": "2019/10/29 17:32:13",
+        "event_place": "武汉市洪山区南湖大道",
+        "driver_car": "鄂A00004",
+        "driver_name": "张如春2",
+        "event_status": "0",
+        "event_axis": [
+            114.39802551688626,
+            30.481979370379122
+        ]
+    },
+    {
+        "fid": 54,
+        "event_id": "sj20200802223413",
+        "event_type": "碰撞",
+        "event_level": "1",
+        "event_time": "2019/10/30 17:32:13",
+        "event_place": "武汉市武昌区雄楚大道",
+        "driver_car": "鄂A00005",
+        "driver_name": "张如春3",
+        "event_status": "1",
+        "event_axis": [
+            114.39363098249305,
+            30.46392058763013
+        ]
+    }
+]
